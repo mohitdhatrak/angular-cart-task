@@ -1,0 +1,34 @@
+<li class="card-item">
+  <!-- <ng-container *ngIf="product"> -->
+  <div class="card card-vertical card-with-badge">
+    <div class="card-body">
+      <div class="card-image-header-container">
+        <img
+          src="../../assets/wheat.webp"
+          alt="Wheat flour"
+          class="card-image"
+        />
+        <header class="card-header-container">
+          <h1 class="card-heading">{{ product.name }}</h1>
+          <p class="card-subheading">Weight: {{ product.weight }} kg</p>
+        </header>
+      </div>
+      <p class="card-text">
+        <span
+          >₹{{
+            getDiscountedPrice(product.price, product.percentDiscount)
+          }}</span
+        >
+        <s class="mrp">
+          <small>₹{{ product.price }}</small>
+        </s>
+      </p>
+    </div>
+    <div class="card-footer">
+      <div class="card-primary-buttons-container">
+        <button class="cart-btn">Add to Cart</button>
+      </div>
+    </div>
+  </div>
+  <!-- </ng-container> -->
+</li>

@@ -1,0 +1,11 @@
+.nav-btns-container {
+  display: flex;
+  justify-content: end;
+}
+
+.nav-btn {
+  cursor: pointer;
+  margin: 1rem;
+  padding: 5px 1rem;
+  font-size: 1.2rem;
+}

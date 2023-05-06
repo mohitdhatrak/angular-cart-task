@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Wheat flour",
+    "weight": 5,
+    "price": 1000,
+    "percentDiscount": 20,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2022/1/GF/KV/LD/93309162/sugar-free-wheat-flour-1000x1000.jpg",
+    "imageAlt": "Wheat flour"
+  },
+  {
+    "id": 2,
+    "name": "Wheat flour",
+    "weight": 10,
+    "price": 2000,
+    "percentDiscount": 30,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2022/1/GF/KV/LD/93309162/sugar-free-wheat-flour-1000x1000.jpg",
+    "imageAlt": "Wheat flour"
+  },
+  {
+    "id": 3,
+    "name": "Wheat flour",
+    "weight": 12,
+    "price": 1300,
+    "percentDiscount": 15,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2022/1/GF/KV/LD/93309162/sugar-free-wheat-flour-1000x1000.jpg",
+    "imageAlt": "Wheat flour"
+  },
+  {
+    "id": 4,
+    "name": "Wheat flour",
+    "weight": 2,
+    "price": 400,
+    "percentDiscount": 10,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2022/1/GF/KV/LD/93309162/sugar-free-wheat-flour-1000x1000.jpg",
+    "imageAlt": "Wheat flour"
+  },
+  {
+    "id": 5,
+    "name": "Wheat flour",
+    "weight": 1,
+    "price": 200,
+    "percentDiscount": 5,
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2022/1/GF/KV/LD/93309162/sugar-free-wheat-flour-1000x1000.jpg",
+    "imageAlt": "Wheat flour"
+  }
+]
